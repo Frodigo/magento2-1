@@ -85,7 +85,7 @@
     "vue-eslint-parser": "^8.0.1"
   },
   "engines": {
-    "node": ">=16.x.x",
+    "node": "16.5.0",
     "yarn": "1.x.x||>=3.x.x"
   },
   "packageManager": "yarn@1.22.15"
